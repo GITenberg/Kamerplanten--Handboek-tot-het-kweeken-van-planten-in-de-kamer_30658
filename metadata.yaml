@@ -1,0 +1,32 @@
+_repo: Kamerplanten--Handboek-tot-het-kweeken-van-planten-in-de-kamer_30658
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30658-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Hesdörffer, Max
+    alias: Hesdorffer, Max
+    birthdate: 1863
+    gutenberg_agent_id: '34738'
+    url: http://www.gutenberg.org/2009/agents/34738
+  editor:
+    agent_name: Witte, Eduard Theodoor
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '34739'
+    url: http://www.gutenberg.org/2009/agents/34739
+description: ''
+gutenberg_issued: '2009-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30658'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'House plants'
+- !lcc 'SB'
+title: 'Kamerplanten: Handboek tot het kweeken van planten in de kamer'
+url: http://www.gutenberg.org/ebooks/30658
